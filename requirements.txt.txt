@@ -1,0 +1,16 @@
+# ==== Core Libraries ====
+numpy
+pandas
+matplotlib
+Pillow
+
+# ==== Deep Learning ====
+tensorflow
+tensorflow-datasets
+
+# ==== Web App ====
+streamlit
+
+# ==== Optional Utilities ====
+scikit-learn
+opencv-python
