@@ -1,7 +1,16 @@
-streamlit==1.38.0
-tensorflow-cpu==2.16.1
-protobuf==3.20.3
-numpy==1.26.4
-pillow==10.3.0
-h5py==3.10.0
+# ==== Core Libraries ====
+numpy
+pandas
+matplotlib
+Pillow
 
+# ==== Deep Learning ====
+tensorflow
+tensorflow-datasets
+
+# ==== Web App ====
+streamlit
+
+# ==== Optional Utilities ====
+scikit-learn
+opencv-python
