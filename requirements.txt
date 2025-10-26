@@ -1,16 +1,8 @@
-# ==== Core Libraries ====
-numpy
-pandas
-matplotlib
-Pillow
-
-# ==== Deep Learning ====
-tensorflow
-tensorflow-datasets
-
-# ==== Web App ====
-streamlit
-
-# ==== Optional Utilities ====
-scikit-learn
-opencv-python
+streamlit==1.32.0
+tensorflow==2.16.1
+protobuf==3.20.3
+numpy==1.26.4
+pillow==10.3.0
+opencv-python==4.9.0.80
+keras==3.2.1
+h5py==3.10.0
